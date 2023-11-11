@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 
 /// <summary>
@@ -176,7 +176,7 @@ class StudentGroup
 /// <summary>
 /// Основной класс программы
 /// </summary>
-class Program
+class Lab1_2   
 {
     static void Main(string[] args)
     {
@@ -201,3 +201,4 @@ class Program
         group.DisplayGroupInfo();
     }
 }
+*/

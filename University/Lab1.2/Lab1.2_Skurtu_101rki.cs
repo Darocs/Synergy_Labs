@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 
 /// <summary>
@@ -201,4 +201,3 @@ class Lab1_2
         group.DisplayGroupInfo();
     }
 }
-*/

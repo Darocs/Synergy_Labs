@@ -1,4 +1,4 @@
-/*using System;
+using System;
 class SwapVertical {
      static void Main() {
         /// Объявление переменных /// 
@@ -46,4 +46,3 @@ class SwapVertical {
         }
     }
 } 
-*/
